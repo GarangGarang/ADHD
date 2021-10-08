@@ -12,3 +12,6 @@ class MainActivity : AppCompatActivity() {
 }
 
 //sex
+/*
+    스 컬 스 컬
+ */
